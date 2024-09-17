@@ -1,0 +1,21 @@
+body{
+    background: pink;
+    color: white;
+    margin: 0px;
+    font-family: "nerko one", cursive;
+}
+header{
+    border-bottom:solid 2px white;
+    padding: 20px;
+    font-size: 50px;
+}
+section{
+    display: flex;
+    background: rgb(0, 247, 255);
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.titulo-video{
+    margin-right: 5%;
+}
